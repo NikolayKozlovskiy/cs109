@@ -3,6 +3,7 @@
 ## Overview 📠
 
 This repository presents solutions for the Problem Sets of Stanford's **CS109: Probability for Computer Scientists** course. It also serves as an attempt to create additional helpful material for mastering this course, both for myself and, hopefully, for others.  
+
 Currently, the repository has fully completed **pset_1**, while the other problem sets are under development. 🚧
 
 ---
