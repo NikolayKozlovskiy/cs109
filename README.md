@@ -32,6 +32,8 @@ The mastery of the course is divided by problem sets rather than topics. This me
 ├── pset_{i}_solutions.pdf # with the link to LaTeX project
 │
 └── README.md # for navigation purposes
+
+* some pset_{i} may also have coding_solutions folder with data and python scripts for coding tasks
 ```
 
 ---
